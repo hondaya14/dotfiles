@@ -1,0 +1,22 @@
+palette = 0=#1f252b
+palette = 1=#e06c75
+palette = 2=#98c379
+palette = 3=#e5c07b
+palette = 4=#61afef
+palette = 5=#c678dd
+palette = 6=#56b6c2
+palette = 7=#c5cdd9
+
+palette = 8=#5c6370
+palette = 9=#f07178
+palette = 10=#a3d977
+palette = 11=#f2cc8f
+palette = 12=#6cb6ff
+palette = 13=#d19aee
+palette = 14=#6bdfff
+palette = 15=#ffffff
+
+background-opacity = 0.9
+
+font-family = JetBrains Mono
+font-family = HackGen Console NF
