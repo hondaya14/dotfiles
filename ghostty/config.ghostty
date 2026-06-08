@@ -18,5 +18,5 @@ palette = 15=#ffffff
 
 background-opacity = 0.9
 
-font-family = JetBrains Mono
-font-family = HackGen Console NF
+font-family = "JetBrains Mono"
+font-family-bold = "JetBrains Mono"
