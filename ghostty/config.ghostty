@@ -1,3 +1,4 @@
+# color 
 palette = 0=#1f252b
 palette = 1=#e06c75
 palette = 2=#98c379
@@ -16,7 +17,14 @@ palette = 13=#d19aee
 palette = 14=#6bdfff
 palette = 15=#ffffff
 
+# terminal background opacity
 background-opacity = 0.9
 
+# specify font family
 font-family = "JetBrains Mono"
 font-family-bold = "JetBrains Mono"
+
+# disable ligatures
+font-feature = -dlig
+font-feature = -liga
+font-feature = -calt
