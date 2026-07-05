@@ -24,7 +24,14 @@ background-opacity = 0.9
 font-family = "JetBrains Mono"
 font-family-bold = "JetBrains Mono"
 
+# Mapping fof Japanese
+font-codepoint-map = U+3000-U+30FF=BIZ UDGothic
+font-codepoint-map = U+4E00-U+9FFF=BIZ UDGothic
+font-codepoint-map = U+FF00-U+FFEF=BIZ UDGothic
+
 # disable ligatures
 font-feature = -dlig
 font-feature = -liga
 font-feature = -calt
+
+
